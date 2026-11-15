@@ -1,0 +1,6 @@
+id=hansfix_action
+name=ColorOS Hans 静默秒解
+version=v1.0
+versionCode=1
+author=You
+description=高频监控并瞬间静默清理 BPF 限制表。
